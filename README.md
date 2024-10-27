@@ -1,6 +1,6 @@
 # gizil-case-study
 
-#Objective 
+###Objective 
 3D visualization and control of shapes added to a table by the user on a canvas element.
 
 This Project inlcudes the case study from Gizil GMBH, which inlcudes the table which conatins the shapes and shape name created user.
@@ -22,7 +22,7 @@ and the table and action buttons will become visible again.
 6. If the render button inside a table entry is clicked, only that specific table entry should 
 be rendered on the canvas, and the actions in step 4 should be applicable.
 
-#Technologies 
+### Technologies 
 React, threejs, Material UI elements.
 ### `npm start`
 
