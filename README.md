@@ -24,6 +24,9 @@ be rendered on the canvas, and the actions in step 4 should be applicable.
 
 ### Technologies 
 React, threejs, Material UI elements.
+
+### `npm i`
+Run this command after cloning the Repository, This will install all the packages included in the package.json
 ### `npm start`
 
 Runs the app in the development mode.\
