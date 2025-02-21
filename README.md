@@ -1,6 +1,6 @@
-# gizil-case-new
+#Three.Js POC
 
-This Project inlcudes the case study from Gizil GMBH, which inlcudes the table which conatins the shapes and shape name created user.
+This Project inlcudes the POC of three.Js 3d images on cavas also includes the rotation of diferent 3D shapes, which inlcudes the table which conatins the shapes and shape name created user.
 It also gives the user user customize the shape dimensions and the axis of the shaes.
 
 Technologies 
